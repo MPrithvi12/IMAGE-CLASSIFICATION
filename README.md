@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project focuses on image classification using Convolutional Neural Networks (CNN) and Multi-layer Perceptron (MLP) models. We applied these models to MNIST and Fashion MNIST datasets to classify handwritten digits and fashion items respectively.
+This project focuses on image classification using Convolutional Neural Networks (CNN) and Multi-layer Perceptron (MLP) models. I applied these models to MNIST and Fashion MNIST datasets to classify handwritten digits and fashion items respectively.
 
 The project covers the following key aspects :
 
@@ -30,5 +30,8 @@ The project covers the following key aspects :
   
 **Key Features**
 
-* **Data Preprocessing** : Images are scaled and normalized for faster and more efficient model training.
-* **Model Training** : Both models were trained using Adam optimizer, with cross-entropy loss for classification.
+* **Data Preprocessing**     : Images are scaled and normalized for faster and more efficient model training.
+* **Model Training**         : Both models were trained using Adam optimizer, with cross-entropy loss for classification.
+* **Performance Metrics**    : Accuracy and loss values tracked during training and testing phases.
+* **Hyperparametric Tuning** : Experiments conducted with different learning rates, batch size and number of epochs.
+* **Visualizations**         : Visualization on MNIST and Fashion MNIST Datasets. 
